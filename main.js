@@ -5,7 +5,7 @@ function init(event) {
     let volumeOn = 1;
     let volumeMusic = .9;
 
-    let dir1 = '../emmaPlayer/'
+    let dir1 = 'audioFiles/'
 
     var blank = document.createElement( "br" );
 
